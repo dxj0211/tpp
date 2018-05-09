@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul li{
+    list-style: none;
+}
+li,.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.clear::after{
+    display: block;
+    content: "";
+    clear: both;
+}
+a{
+    list-style: none;
+    text-decoration: none;
+}

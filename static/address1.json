@@ -1,0 +1,543 @@
+{
+    "api": "mtop.film.mtopcinemaapi.getcinemalistinpage",
+    "data": {
+        "returnCode": "0",
+        "returnValue": {
+            "cinemaFilter": {
+                "brandCode": "",
+                "brandFilters": [
+                    {
+                        "count": "201",
+                        "title": "全部"
+                    },
+                    {
+                        "code": "1003",
+                        "count": "10",
+                        "title": "保利国际影城"
+                    },
+                    {
+                        "code": "1022",
+                        "count": "9",
+                        "title": "大地影院"
+                    },
+                    {
+                        "code": "1025",
+                        "count": "8",
+                        "title": "耀莱成龙国际影城"
+                    },
+                    {
+                        "code": "1007",
+                        "count": "7",
+                        "title": "万达影城"
+                    },
+                    {
+                        "code": "1005",
+                        "count": "6",
+                        "title": "博纳国际影城"
+                    },
+                    {
+                        "code": "1026",
+                        "count": "5",
+                        "title": "CGV影城"
+                    },
+                    {
+                        "code": "1015",
+                        "count": "5",
+                        "title": "橙天嘉禾影城"
+                    },
+                    {
+                        "code": "1016",
+                        "count": "5",
+                        "title": "金逸影城"
+                    },
+                    {
+                        "code": "1004",
+                        "count": "5",
+                        "title": "星美国际影城"
+                    },
+                    {
+                        "code": "1002",
+                        "count": "5",
+                        "title": "中影国际影城"
+                    },
+                    {
+                        "code": "1001",
+                        "count": "4",
+                        "title": "百老汇影城"
+                    },
+                    {
+                        "code": "4087",
+                        "count": "4",
+                        "title": "新华国际影城"
+                    },
+                    {
+                        "code": "1018",
+                        "count": "3",
+                        "title": "卢米埃影城"
+                    },
+                    {
+                        "code": "4112",
+                        "count": "3",
+                        "title": "首都电影院"
+                    },
+                    {
+                        "code": "1006",
+                        "count": "3",
+                        "title": "UME国际影城"
+                    },
+                    {
+                        "code": "1019",
+                        "count": "2",
+                        "title": "华谊兄弟影院"
+                    },
+                    {
+                        "code": "4096",
+                        "count": "2",
+                        "title": "嘉华国际影城"
+                    },
+                    {
+                        "code": "4091",
+                        "count": "2",
+                        "title": "美嘉欢乐影城"
+                    },
+                    {
+                        "code": "1011",
+                        "count": "2",
+                        "title": "SFC上影影城"
+                    },
+                    {
+                        "code": "1021",
+                        "count": "2",
+                        "title": "太平洋电影城"
+                    },
+                    {
+                        "code": "1017",
+                        "count": "2",
+                        "title": "完美世界"
+                    },
+                    {
+                        "code": "1029",
+                        "count": "2",
+                        "title": "沃美影城"
+                    },
+                    {
+                        "code": "1020",
+                        "count": "2",
+                        "title": "幸福蓝海国际影城"
+                    },
+                    {
+                        "code": "4040",
+                        "count": "1",
+                        "title": "东都影城"
+                    },
+                    {
+                        "code": "1010",
+                        "count": "1",
+                        "title": "横店电影城"
+                    },
+                    {
+                        "code": "4022",
+                        "count": "1",
+                        "title": "华夏影城"
+                    },
+                    {
+                        "code": "4070",
+                        "count": "1",
+                        "title": "嘉美国际影城"
+                    },
+                    {
+                        "code": "4014",
+                        "count": "1",
+                        "title": "鲁信影城"
+                    },
+                    {
+                        "code": "4035",
+                        "count": "1",
+                        "title": "搜秀影城"
+                    },
+                    {
+                        "code": "-9999",
+                        "count": "97",
+                        "title": "其他"
+                    }
+                ],
+                "memberSupportFilters": [
+                    {
+                        "code": "1",
+                        "subTitle": "黑钻、黄金会员专享",
+                        "title": "定制票纸纪念语"
+                    },
+                    {
+                        "code": "2",
+                        "subTitle": "黑钻会员专享",
+                        "title": "定制专属取票语"
+                    }
+                ],
+                "regionName": "",
+                "regionNameFilters": [
+                    {
+                        "code":"不限区域",
+                        "title":"不限区域"
+                    },
+                    {
+                        "code": "昌平区",
+                        "title": "昌平区"
+                    },
+                    {
+                        "code": "朝阳区",
+                        "title": "朝阳区"
+                    },
+                    {
+                        "code": "崇文区",
+                        "title": "崇文区"
+                    },
+                    {
+                        "code": "大兴区",
+                        "title": "大兴区"
+                    },
+                    {
+                        "code": "东城区",
+                        "title": "东城区"
+                    },
+                    {
+                        "code": "房山区",
+                        "title": "房山区"
+                    },
+                    {
+                        "code": "丰台区",
+                        "title": "丰台区"
+                    },
+                    {
+                        "code": "海淀区",
+                        "title": "海淀区"
+                    },
+                    {
+                        "code": "怀柔区",
+                        "title": "怀柔区"
+                    },
+                    {
+                        "code": "门头沟区",
+                        "title": "门头沟区"
+                    },
+                    {
+                        "code": "密云区",
+                        "title": "密云区"
+                    },
+                    {
+                        "code": "平谷区",
+                        "title": "平谷区"
+                    },
+                    {
+                        "code": "石景山区",
+                        "title": "石景山区"
+                    },
+                    {
+                        "code": "顺义区",
+                        "title": "顺义区"
+                    },
+                    {
+                        "code": "通州区",
+                        "title": "通州区"
+                    },
+                    {
+                        "code": "西城区",
+                        "title": "西城区"
+                    },
+                    {
+                        "code": "延庆区",
+                        "title": "延庆区"
+                    }
+                ],
+                "sortType": "1",
+                "sortTypeFilters": [
+                    {
+                        "code": "1",
+                        "title": "离我最近(定位失败)"
+                    },
+                    {
+                        "code": "2",
+                        "title": "价格最低"
+                    }
+                ],
+                "supportDates": [],
+                "supportFilters": [
+                    {
+                        "code": "8",
+                        "title": "退票"
+                    },
+                    {
+                        "code": "23",
+                        "title": "改签"
+                    },
+                    {
+                        "code": "3",
+                        "title": "观影小食"
+                    },
+                    {
+                        "code": "11",
+                        "title": "IMAX厅"
+                    },
+                    {
+                        "code": "12",
+                        "title": "巨幕厅"
+                    },
+                    {
+                        "code": "17",
+                        "title": "realD厅"
+                    },
+                    {
+                        "code": "16",
+                        "title": "4K厅"
+                    },
+                    {
+                        "code": "20",
+                        "title": "4DX厅"
+                    },
+                    {
+                        "code": "13",
+                        "title": "4D厅"
+                    },
+                    {
+                        "code": "15",
+                        "title": "杜比厅"
+                    },
+                    {
+                        "code": "18",
+                        "title": "双机3D"
+                    },
+                    {
+                        "code": "28",
+                        "title": "激光厅"
+                    }
+                ],
+                "time": "",
+                "timeFilters": []
+            },
+            "cinemas": [
+                {
+                    "activityTags": [],
+                    "address": "东城区香河园路1号当代MOMA北区T4座",
+                    "alwaysGO": "false",
+                    "bizStatus": "3",
+                    "cinemaId": "4283",
+                    "cinemaName": "北京百老汇电影中心当代MOMA店",
+                    "displaySupports": [
+                        "观影小食",
+                        "realD厅"
+                    ],
+                    "distance": "-1.0",
+                    "latitude": "39.9501608486",
+                    "longitude": "116.4389341917",
+                    "mcardOpen": "false",
+                    "minPrice": "44.80",
+                    "scheduleCloseTime": "20",
+                    "scheduleCount": "33",
+                    "supportMcard": "false"
+                },
+                {
+                    "activityTags": [],
+                    "address": "昌平区北清路1号永旺国际商城3楼（生命科学园站下车即到）",
+                    "alwaysGO": "false",
+                    "bizStatus": "3",
+                    "cinemaId": "4284",
+                    "cinemaName": "中影国际影城北京昌平永旺店",
+                    "displaySupports": [
+                        "观影小食"
+                    ],
+                    "distance": "-1.0",
+                    "latitude": "40.0969563503",
+                    "longitude": "116.2886277771",
+                    "mcardOpen": "false",
+                    "minPrice": "34.00",
+                    "scheduleCloseTime": "5",
+                    "scheduleCount": "110",
+                    "supportMcard": "false"
+                },
+                {
+                    "activityTags": [
+                        {
+                            "tag": "促",
+                            "tagType": "1",
+                            "title": "淘票票特惠促销"
+                        }
+                    ],
+                    "address": "丰台区东高地万源北路航天万源广场五楼",
+                    "alwaysGO": "false",
+                    "bizStatus": "3",
+                    "cinemaId": "4285",
+                    "cinemaName": "保利国际影城-北京万源店",
+                    "displaySupports": [
+                        "观影小食"
+                    ],
+                    "distance": "-1.0",
+                    "latitude": "39.8031033761",
+                    "longitude": "116.4233528056",
+                    "mcardOpen": "false",
+                    "minPrice": "24.00",
+                    "scheduleCloseTime": "15",
+                    "scheduleCount": "86",
+                    "supportMcard": "false"
+                },
+                {
+                    "activityTags": [],
+                    "address": "东城区崇文门外大街40号搜秀商城9层北京搜秀影院",
+                    "alwaysGO": "false",
+                    "bizStatus": "3",
+                    "cinemaId": "4293",
+                    "cinemaName": "北京搜秀影城",
+                    "displaySupports": [
+                        "退票",
+                        "改签",
+                        "观影小食"
+                    ],
+                    "distance": "-1.0",
+                    "latitude": "39.896428",
+                    "longitude": "116.419377",
+                    "mcardOpen": "false",
+                    "minPrice": "28.00",
+                    "scheduleCloseTime": "0",
+                    "scheduleCount": "35",
+                    "supportMcard": "false"
+                },
+                {
+                    "activityTags": [],
+                    "address": "西城区新街口外大街25号",
+                    "alwaysGO": "false",
+                    "bizStatus": "3",
+                    "cinemaId": "4297",
+                    "cinemaName": "中影国际影城北京小西天店",
+                    "displaySupports": [
+                        "观影小食",
+                        "巨幕厅"
+                    ],
+                    "distance": "-1.0",
+                    "latitude": "39.9528534406",
+                    "longitude": "116.3712166019",
+                    "mcardOpen": "false",
+                    "minPrice": "37.00",
+                    "scheduleCloseTime": "5",
+                    "scheduleCount": "33",
+                    "supportMcard": "false"
+                },
+                {
+                    "activityTags": [],
+                    "address": "海淀区双榆树科学院南路44号（双安商场对面）",
+                    "alwaysGO": "false",
+                    "bizStatus": "3",
+                    "cinemaId": "4299",
+                    "cinemaName": "UME国际影城（华星店）",
+                    "displaySupports": [
+                        "观影小食",
+                        "IMAX厅"
+                    ],
+                    "distance": "-1.0",
+                    "latitude": "39.9678295203",
+                    "longitude": "116.3257508729",
+                    "mcardOpen": "false",
+                    "minPrice": "39.50",
+                    "scheduleCloseTime": "10",
+                    "scheduleCount": "95",
+                    "supportMcard": "false"
+                },
+                {
+                    "activityTags": [],
+                    "address": "东城区北三环东路36号环球贸易中心E座B1/F1/F3",
+                    "alwaysGO": "false",
+                    "bizStatus": "3",
+                    "cinemaId": "4326",
+                    "cinemaName": "UME国际影城（安贞店）",
+                    "displaySupports": [
+                        "观影小食",
+                        "realD厅"
+                    ],
+                    "distance": "-1.0",
+                    "latitude": "39.9660174417",
+                    "longitude": "116.4108577928",
+                    "mcardOpen": "false",
+                    "minPrice": "39.50",
+                    "scheduleCloseTime": "5",
+                    "scheduleCount": "157",
+                    "supportMcard": "false"
+                },
+                {
+                    "activityTags": [
+                        {
+                            "tag": "促",
+                            "tagType": "1",
+                            "title": "淘票票特惠促销"
+                        }
+                    ],
+                    "address": "丰台区政馨园三区B1",
+                    "alwaysGO": "false",
+                    "bizStatus": "3",
+                    "cinemaId": "4327",
+                    "cinemaName": "北京星博正华影城",
+                    "displaySupports": [
+                        "退票",
+                        "改签",
+                        "观影小食"
+                    ],
+                    "distance": "-1.0",
+                    "latitude": "39.8455108854",
+                    "longitude": "116.4318627617",
+                    "mcardOpen": "false",
+                    "minPrice": "28.00",
+                    "scheduleCloseTime": "0",
+                    "scheduleCount": "384",
+                    "supportMcard": "false"
+                },
+                {
+                    "activityTags": [
+                        {
+                            "tag": "券",
+                            "tagType": "4",
+                            "title": "可领5元代金券"
+                        }
+                    ],
+                    "address": "大兴区亦庄经济开发区文化园东路6号",
+                    "alwaysGO": "false",
+                    "bizStatus": "3",
+                    "cinemaId": "4354",
+                    "cinemaName": "大料国际影城",
+                    "displaySupports": [
+                        "退票",
+                        "改签",
+                        "观影小食"
+                    ],
+                    "distance": "-1.0",
+                    "latitude": "39.8108525821",
+                    "longitude": "116.5054710916",
+                    "mcardOpen": "false",
+                    "minPrice": "43.00",
+                    "scheduleCloseTime": "0",
+                    "scheduleCount": "50",
+                    "supportMcard": "false"
+                },
+                {
+                    "activityTags": [],
+                    "address": "朝阳区北辰东路5号(鸟巢正北一公里）中国科学技术馆（新馆）内",
+                    "alwaysGO": "false",
+                    "bizStatus": "3",
+                    "cinemaId": "4359",
+                    "cinemaName": "保利国际影城中国科技馆店",
+                    "displaySupports": [
+                        "4D厅"
+                    ],
+                    "distance": "-1.0",
+                    "latitude": "40.005470016",
+                    "longitude": "116.3980997344",
+                    "mcardOpen": "false",
+                    "minPrice": "34.00",
+                    "scheduleCloseTime": "15",
+                    "scheduleCount": "9",
+                    "supportMcard": "false"
+                }
+            ],
+            "noLoginTip": "登陆后可查看常去影院"
+        }
+    },
+    "ret": [
+        "SUCCESS::调用成功"
+    ],
+    "v": "7.5"
+}

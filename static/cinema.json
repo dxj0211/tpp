@@ -1,0 +1,860 @@
+{
+    "api": "mtop.film.mtopscheduleapi.getcinemaschedules",
+    "data": {
+        "returnCode": "0",
+        "returnValue": {
+            "announceVos": [],
+            "cinemaVo": {
+                "address": "东城区崇文门外大街40号搜秀商城9层北京搜秀影院",
+                "alwaysGo": "false",
+                "cinemaDetailUrl": "https://h5.m.taobao.com/app/movie/pages/index/cinema-detail.html?from=ap&cinemaid=4293",
+                "cinemaId": "4293",
+                "cinemaName": "北京搜秀影城",
+                "latitude": "39.896428",
+                "longitude": "116.419377",
+                "phoneList": [
+                    "010-51671298"
+                ],
+                "scheduleCloseTime": "0",
+                "scheduleCount": "35",
+                "supportList": [
+                    {
+                        "code": "8",
+                        "desc": "支持开场前30分钟退票",
+                        "name": "退票",
+                        "support": "true"
+                    },
+                    {
+                        "code": "23",
+                        "desc": "支持开场前30分钟改签",
+                        "name": "改签",
+                        "support": "true"
+                    },
+                    {
+                        "code": "3",
+                        "desc": "该影院支持线上购买小食",
+                        "name": "观影小食",
+                        "support": "true"
+                    },
+                    {
+                        "code": "2",
+                        "desc": "免押金",
+                        "name": "3D眼镜",
+                        "support": "true"
+                    },
+                    {
+                        "code": "7",
+                        "desc": "1.3m以下儿童2D免费无座，需大人陪同； 1.3m以下儿童3D影片需要购票",
+                        "name": "儿童优惠",
+                        "support": "true"
+                    },
+                    {
+                        "code": "1",
+                        "desc": "搜秀商场附近新世界商场、国瑞购物中心可收费停车",
+                        "name": "可停车",
+                        "support": "true"
+                    },
+                    {
+                        "code": "6",
+                        "desc": "VIP厅",
+                        "name": "情侣座",
+                        "support": "true"
+                    },
+                    {
+                        "code": "10",
+                        "desc": "VIP厅",
+                        "name": "VIP厅",
+                        "support": "true"
+                    },
+                    {
+                        "code": "4",
+                        "desc": "8层美食城",
+                        "name": "餐饮",
+                        "support": "true"
+                    },
+                    {
+                        "code": "5",
+                        "desc": "9层休息大厅",
+                        "name": "休息区",
+                        "support": "true"
+                    }
+                ]
+            },
+            "mCardItemVO": {
+                "userMCardStatus": "1"
+            },
+            "noLoginTip": "登录后可查看实际能享受的价格",
+            "notifyBannerVos": [
+                {
+                    "tag": "10元观影红包",
+                    "title": "电信积分兑换专区",
+                    "type": "-1",
+                    "url": "https://h5.m.taobao.com/app/moviediscount/pages/bank-card/index.html?fromcinema=true&cityCode=110100"
+                }
+            ],
+            "showScheduleMap": {
+                "157666": [
+                    {
+                        "announceIds": [],
+                        "date": "1524412800000",
+                        "dateDesc": "今天04-23",
+                        "mergeActivityMap": {},
+                        "scheduleCount": "2",
+                        "scheduleVos": [
+                            {
+                                "cinemaPrice": "4000",
+                                "closeTime": "11:44",
+                                "hallName": "2号厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "memberTradePrice": "2600",
+                                "openTime": "09:50",
+                                "scheduleCloseTime": "1524448200000",
+                                "scheduleId": "518198471",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "英语 2D",
+                                "tradePrice": "2800",
+                                "zeroSchedule": "false"
+                            },
+                            {
+                                "cinemaPrice": "8000",
+                                "closeTime": "16:19",
+                                "hallName": "2号厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "memberTradePrice": "4100",
+                                "openTime": "14:25",
+                                "scheduleCloseTime": "1524464700000",
+                                "scheduleId": "518198441",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "英语 2D",
+                                "tradePrice": "4300",
+                                "zeroSchedule": "false"
+                            }
+                        ]
+                    }
+                ],
+                "158775": [
+                    {
+                        "announceIds": [],
+                        "date": "1524412800000",
+                        "dateDesc": "今天04-23",
+                        "mergeActivityMap": {},
+                        "scheduleCount": "6",
+                        "scheduleVos": [
+                            {
+                                "cinemaPrice": "6000",
+                                "closeTime": "12:05",
+                                "hallName": "4号厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "memberTradePrice": "3100",
+                                "openTime": "09:45",
+                                "scheduleCloseTime": "1524447900000",
+                                "scheduleId": "518198470",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "英语 3D",
+                                "tradePrice": "3300",
+                                "zeroSchedule": "false"
+                            },
+                            {
+                                "cinemaPrice": "6000",
+                                "closeTime": "14:35",
+                                "hallName": "4号厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "memberTradePrice": "3100",
+                                "openTime": "12:15",
+                                "scheduleCloseTime": "1524456900000",
+                                "scheduleId": "518198447",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "英语 3D",
+                                "tradePrice": "3300",
+                                "zeroSchedule": "false"
+                            },
+                            {
+                                "cinemaPrice": "12000",
+                                "closeTime": "17:05",
+                                "hallName": "4号厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "memberTradePrice": "4100",
+                                "openTime": "14:45",
+                                "scheduleCloseTime": "1524465900000",
+                                "scheduleId": "518198442",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "英语 3D",
+                                "tradePrice": "4300",
+                                "zeroSchedule": "false"
+                            },
+                            {
+                                "cinemaPrice": "12000",
+                                "closeTime": "19:35",
+                                "hallName": "4号厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "memberTradePrice": "4100",
+                                "openTime": "17:15",
+                                "scheduleCloseTime": "1524474900000",
+                                "scheduleId": "518198457",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "英语 3D",
+                                "tradePrice": "4300",
+                                "zeroSchedule": "false"
+                            },
+                            {
+                                "cinemaPrice": "12000",
+                                "closeTime": "22:05",
+                                "hallName": "4号厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "memberTradePrice": "4100",
+                                "openTime": "19:45",
+                                "scheduleCloseTime": "1524483900000",
+                                "scheduleId": "518198462",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "英语 3D",
+                                "tradePrice": "4300",
+                                "zeroSchedule": "false"
+                            },
+                            {
+                                "cinemaPrice": "12000",
+                                "closeTime": "00:35",
+                                "hallName": "4号厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "memberTradePrice": "3100",
+                                "openTime": "22:15",
+                                "scheduleCloseTime": "1524492900000",
+                                "scheduleId": "518198467",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "英语 3D",
+                                "tradePrice": "3300",
+                                "zeroSchedule": "false"
+                            }
+                        ]
+                    }
+                ],
+                "230804": [
+                    {
+                        "announceIds": [],
+                        "date": "1524412800000",
+                        "dateDesc": "今天04-23",
+                        "mergeActivityMap": {},
+                        "scheduleCount": "1",
+                        "scheduleVos": [
+                            {
+                                "cinemaPrice": "4000",
+                                "closeTime": "14:11",
+                                "hallName": "2号厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "memberTradePrice": "2600",
+                                "openTime": "12:00",
+                                "scheduleCloseTime": "1524456000000",
+                                "scheduleId": "518198445",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "印地语 2D",
+                                "tradePrice": "2800",
+                                "zeroSchedule": "false"
+                            }
+                        ]
+                    }
+                ],
+                "228506": [
+                    {
+                        "announceIds": [],
+                        "date": "1524412800000",
+                        "dateDesc": "今天04-23",
+                        "mergeActivityMap": {},
+                        "scheduleCount": "6",
+                        "scheduleVos": [
+                            {
+                                "cinemaPrice": "8000",
+                                "closeTime": "16:52",
+                                "hallName": "3号厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "memberTradePrice": "4100",
+                                "openTime": "15:10",
+                                "scheduleCloseTime": "1524467400000",
+                                "scheduleId": "518198443",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "英语 2D",
+                                "tradePrice": "4300",
+                                "zeroSchedule": "false"
+                            },
+                            {
+                                "cinemaPrice": "8000",
+                                "closeTime": "18:47",
+                                "hallName": "3号厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "memberTradePrice": "4100",
+                                "openTime": "17:05",
+                                "scheduleCloseTime": "1524474300000",
+                                "scheduleId": "518198456",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "英语 2D",
+                                "tradePrice": "4300",
+                                "zeroSchedule": "false"
+                            },
+                            {
+                                "cinemaPrice": "8000",
+                                "closeTime": "20:42",
+                                "hallName": "3号厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "memberTradePrice": "4100",
+                                "openTime": "19:00",
+                                "scheduleCloseTime": "1524481200000",
+                                "scheduleId": "518198451",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "英语 2D",
+                                "tradePrice": "4300",
+                                "zeroSchedule": "false"
+                            },
+                            {
+                                "cinemaPrice": "8000",
+                                "closeTime": "22:37",
+                                "hallName": "3号厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "memberTradePrice": "4100",
+                                "openTime": "20:55",
+                                "scheduleCloseTime": "1524488100000",
+                                "scheduleId": "518198464",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "英语 2D",
+                                "tradePrice": "4300",
+                                "zeroSchedule": "false"
+                            },
+                            {
+                                "cinemaPrice": "8000",
+                                "closeTime": "00:27",
+                                "hallName": "3号厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "memberTradePrice": "2600",
+                                "openTime": "22:45",
+                                "scheduleCloseTime": "1524494700000",
+                                "scheduleId": "518198460",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "英语 2D",
+                                "tradePrice": "2800",
+                                "zeroSchedule": "false"
+                            }
+                        ]
+                    }
+                ],
+                "193275": [
+                    {
+                        "announceIds": [],
+                        "date": "1524412800000",
+                        "dateDesc": "今天04-23",
+                        "mergeActivityMap": {},
+                        "scheduleCount": "3",
+                        "scheduleVos": [
+                            {
+                                "cinemaPrice": "4000",
+                                "closeTime": "13:06",
+                                "hallName": "3号厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "memberTradePrice": "3600",
+                                "openTime": "11:20",
+                                "scheduleCloseTime": "1524453600000",
+                                "scheduleId": "518198473",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "国语 2D",
+                                "tradePrice": "3800",
+                                "zeroSchedule": "false"
+                            },
+                            {
+                                "cinemaPrice": "10000",
+                                "closeTime": "15:41",
+                                "hallName": "VIP厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "openTime": "13:55",
+                                "scheduleCloseTime": "1524462900000",
+                                "scheduleId": "518198440",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "国语 2D",
+                                "tradePrice": "5300",
+                                "zeroSchedule": "false"
+                            },
+                            {
+                                "cinemaPrice": "10000",
+                                "closeTime": "21:21",
+                                "hallName": "VIP厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "openTime": "19:35",
+                                "scheduleCloseTime": "1524483300000",
+                                "scheduleId": "518198452",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "国语 2D",
+                                "tradePrice": "5300",
+                                "zeroSchedule": "false"
+                            }
+                        ]
+                    }
+                ],
+                "230072": [
+                    {
+                        "announceIds": [],
+                        "date": "1524412800000",
+                        "dateDesc": "今天04-23",
+                        "mergeActivityMap": {},
+                        "scheduleCount": "1",
+                        "scheduleVos": [
+                            {
+                                "cinemaPrice": "8000",
+                                "closeTime": "14:55",
+                                "hallName": "3号厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "memberTradePrice": "3600",
+                                "openTime": "13:20",
+                                "scheduleCloseTime": "1524460800000",
+                                "scheduleId": "518198448",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "云南方言 2D",
+                                "tradePrice": "3800",
+                                "zeroSchedule": "false"
+                            }
+                        ]
+                    }
+                ],
+                "200655": [
+                    {
+                        "announceIds": [],
+                        "date": "1524412800000",
+                        "dateDesc": "今天04-23",
+                        "mergeActivityMap": {},
+                        "scheduleCount": "5",
+                        "scheduleVos": [
+                            {
+                                "cinemaPrice": "5300",
+                                "closeTime": "11:51",
+                                "hallName": "VIP厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "openTime": "10:15",
+                                "scheduleCloseTime": "1524449700000",
+                                "scheduleId": "518198472",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "国语 2D",
+                                "tradePrice": "5300",
+                                "zeroSchedule": "false"
+                            },
+                            {
+                                "cinemaPrice": "5300",
+                                "closeTime": "13:41",
+                                "hallName": "VIP厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "openTime": "12:05",
+                                "scheduleCloseTime": "1524456300000",
+                                "scheduleId": "518198446",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "国语 2D",
+                                "tradePrice": "5300",
+                                "zeroSchedule": "false"
+                            },
+                            {
+                                "cinemaPrice": "10000",
+                                "closeTime": "17:31",
+                                "hallName": "VIP厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "openTime": "15:55",
+                                "scheduleCloseTime": "1524470100000",
+                                "scheduleId": "518198454",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "国语 2D",
+                                "tradePrice": "5300",
+                                "zeroSchedule": "false"
+                            },
+                            {
+                                "cinemaPrice": "10000",
+                                "closeTime": "19:21",
+                                "hallName": "VIP厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "openTime": "17:45",
+                                "scheduleCloseTime": "1524476700000",
+                                "scheduleId": "518198449",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "国语 2D",
+                                "tradePrice": "5300",
+                                "zeroSchedule": "false"
+                            },
+                            {
+                                "cinemaPrice": "10000",
+                                "closeTime": "23:11",
+                                "hallName": "VIP厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "openTime": "21:35",
+                                "scheduleCloseTime": "1524490500000",
+                                "scheduleId": "518198465",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "国语 2D",
+                                "tradePrice": "5300",
+                                "zeroSchedule": "false"
+                            }
+                        ]
+                    }
+                ],
+                "231357": [
+                    {
+                        "announceIds": [],
+                        "date": "1524412800000",
+                        "dateDesc": "今天04-23",
+                        "mergeActivityMap": {},
+                        "scheduleCount": "11",
+                        "scheduleVos": [
+                            {
+                                "cinemaPrice": "6000",
+                                "closeTime": "11:28",
+                                "hallName": "1号厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "memberTradePrice": "3100",
+                                "openTime": "09:40",
+                                "scheduleCloseTime": "1524447600000",
+                                "scheduleId": "518198469",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "英语 3D",
+                                "tradePrice": "3300",
+                                "zeroSchedule": "false"
+                            },
+                            {
+                                "cinemaPrice": "6000",
+                                "closeTime": "13:28",
+                                "hallName": "1号厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "memberTradePrice": "3100",
+                                "openTime": "11:40",
+                                "scheduleCloseTime": "1524454800000",
+                                "scheduleId": "518198444",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "英语 3D",
+                                "tradePrice": "3300",
+                                "zeroSchedule": "false"
+                            },
+                            {
+                                "cinemaPrice": "12000",
+                                "closeTime": "15:28",
+                                "hallName": "1号厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "memberTradePrice": "3100",
+                                "openTime": "13:40",
+                                "scheduleCloseTime": "1524462000000",
+                                "scheduleId": "518198439",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "英语 3D",
+                                "tradePrice": "3300",
+                                "zeroSchedule": "false"
+                            },
+                            {
+                                "cinemaPrice": "12000",
+                                "closeTime": "17:28",
+                                "hallName": "1号厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "memberTradePrice": "4100",
+                                "openTime": "15:40",
+                                "scheduleCloseTime": "1524469200000",
+                                "scheduleId": "518198453",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "英语 3D",
+                                "tradePrice": "4300",
+                                "zeroSchedule": "false"
+                            },
+                            {
+                                "cinemaPrice": "12000",
+                                "closeTime": "18:23",
+                                "hallName": "2号厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "memberTradePrice": "4100",
+                                "openTime": "16:35",
+                                "scheduleCloseTime": "1524472500000",
+                                "scheduleId": "518198455",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "英语 3D",
+                                "tradePrice": "4300",
+                                "zeroSchedule": "false"
+                            },
+                            {
+                                "cinemaPrice": "12000",
+                                "closeTime": "19:28",
+                                "hallName": "1号厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "memberTradePrice": "4100",
+                                "openTime": "17:40",
+                                "scheduleCloseTime": "1524476400000",
+                                "scheduleId": "518198458",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "英语 3D",
+                                "tradePrice": "4300",
+                                "zeroSchedule": "false"
+                            },
+                            {
+                                "cinemaPrice": "12000",
+                                "closeTime": "20:23",
+                                "hallName": "2号厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "memberTradePrice": "4100",
+                                "openTime": "18:35",
+                                "scheduleCloseTime": "1524479700000",
+                                "scheduleId": "518198450",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "英语 3D",
+                                "tradePrice": "4300",
+                                "zeroSchedule": "false"
+                            },
+                            {
+                                "cinemaPrice": "12000",
+                                "closeTime": "21:28",
+                                "hallName": "1号厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "memberTradePrice": "4100",
+                                "openTime": "19:40",
+                                "scheduleCloseTime": "1524483600000",
+                                "scheduleId": "518198461",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "英语 3D",
+                                "tradePrice": "4300",
+                                "zeroSchedule": "false"
+                            },
+                            {
+                                "cinemaPrice": "12000",
+                                "closeTime": "22:23",
+                                "hallName": "2号厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "memberTradePrice": "4100",
+                                "openTime": "20:35",
+                                "scheduleCloseTime": "1524486900000",
+                                "scheduleId": "518198463",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "英语 3D",
+                                "tradePrice": "4300",
+                                "zeroSchedule": "false"
+                            },
+                            {
+                                "cinemaPrice": "12000",
+                                "closeTime": "23:28",
+                                "hallName": "1号厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "memberTradePrice": "3100",
+                                "openTime": "21:40",
+                                "scheduleCloseTime": "1524490800000",
+                                "scheduleId": "518198466",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "英语 3D",
+                                "tradePrice": "3300",
+                                "zeroSchedule": "false"
+                            },
+                            {
+                                "cinemaPrice": "12000",
+                                "closeTime": "00:18",
+                                "hallName": "2号厅",
+                                "hasArea": "false",
+                                "hasCityPassPrice": "true",
+                                "hasDiffAreaPrice": "false",
+                                "memberTradePrice": "3100",
+                                "openTime": "22:30",
+                                "scheduleCloseTime": "1524493800000",
+                                "scheduleId": "518198459",
+                                "scheduleTag": {},
+                                "sellFlag": "0",
+                                "showVersion": "英语 3D",
+                                "tradePrice": "3300",
+                                "zeroSchedule": "false"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "showVos": [
+                {
+                    "duration": "108",
+                    "fantastic": "0",
+                    "leadingRole": "道恩·强森,娜奥米·哈里斯,杰弗里·迪恩·摩根,玛琳·阿克曼",
+                    "openTime": "2018-04-13",
+                    "poster": "i4/TB18cozaDqWBKNjSZFAXXanSpXa_.jpg",
+                    "remark": "8.9",
+                    "showDetailUrl": "https://h5.m.taopiaopiao.com/app/movie/pages/index/show-detail.html?showid=231357&hasbuybtn=false",
+                    "showId": "231357",
+                    "showName": "狂暴巨兽",
+                    "type": "动作,冒险,科幻"
+                },
+                {
+                    "duration": "140",
+                    "fantastic": "0",
+                    "leadingRole": "泰伊·谢里丹,奥利维亚·库克,本·门德尔森,西蒙·佩吉,马克·里朗斯",
+                    "openTime": "2018-03-30",
+                    "poster": "i4/TB11pGCfv1TBuNjy0FjXXajyXXa_.jpg",
+                    "remark": "9.0",
+                    "showDetailUrl": "https://h5.m.taopiaopiao.com/app/movie/pages/index/show-detail.html?showid=158775&hasbuybtn=false",
+                    "showId": "158775",
+                    "showName": "头号玩家",
+                    "type": "动作,科幻,冒险"
+                },
+                {
+                    "duration": "102",
+                    "fantastic": "0",
+                    "leadingRole": "布莱恩·科兰斯顿,朱亚文,爱德华·诺顿,科宇·兰金,斯嘉丽·约翰逊,宋佳,杰夫·高布伦,比尔·默瑞,蒂尔达·斯文顿",
+                    "openTime": "2018-04-20",
+                    "poster": "i3/TB1K.gokr1YBuNjSszeXXablFXa_.jpg",
+                    "remark": "8.2",
+                    "showDetailUrl": "https://h5.m.taopiaopiao.com/app/movie/pages/index/show-detail.html?showid=228506&hasbuybtn=false",
+                    "showId": "228506",
+                    "showName": "犬之岛",
+                    "type": "喜剧,动画,冒险"
+                },
+                {
+                    "duration": "96",
+                    "fantastic": "0",
+                    "leadingRole": "郭京飞,迪丽热巴,大鹏",
+                    "openTime": "2018-04-20",
+                    "poster": "i3/TB1wqFik7KWBuNjy1zjXXcOypXa_.jpg",
+                    "remark": "8.5",
+                    "showDetailUrl": "https://h5.m.taopiaopiao.com/app/movie/pages/index/show-detail.html?showid=200655&hasbuybtn=false",
+                    "showId": "200655",
+                    "showName": "21克拉",
+                    "type": "喜剧,爱情"
+                },
+                {
+                    "duration": "106",
+                    "fantastic": "0",
+                    "leadingRole": "董子健,钟楚曦,春夏,袁福福",
+                    "openTime": "2018-04-20",
+                    "poster": "i1/TB1y0JeheySBuNjy1zdXXXPxFXa_.jpg",
+                    "remark": "8.4",
+                    "showDetailUrl": "https://h5.m.taopiaopiao.com/app/movie/pages/index/show-detail.html?showid=193275&hasbuybtn=false",
+                    "showId": "193275",
+                    "showName": "脱单告急",
+                    "type": "爱情,喜剧"
+                },
+                {
+                    "duration": "114",
+                    "fantastic": "0",
+                    "leadingRole": "娜塔莉·波特曼,詹妮弗·杰森·李,吉娜·罗德里格兹,泰莎·汤普森,奥斯卡·伊萨克,图娃·诺沃妮",
+                    "openTime": "2018-04-13",
+                    "poster": "i2/TB1SluRkf5TBuNjSspcXXbnGFXa_.jpg",
+                    "remark": "7.5",
+                    "showDetailUrl": "https://h5.m.taopiaopiao.com/app/movie/pages/index/show-detail.html?showid=157666&hasbuybtn=false",
+                    "showId": "157666",
+                    "showName": "湮灭",
+                    "type": "科幻,动作,剧情"
+                },
+                {
+                    "duration": "131",
+                    "fantastic": "0",
+                    "leadingRole": "伊尔凡·可汗,萨巴·卡玛尔,内哈·迪胡皮阿,迪帕克·迪布里亚尔,蒂希塔·塞加尔,阿莫瑞塔·金格",
+                    "openTime": "2018-04-04",
+                    "poster": "i1/TB1nfNTbIUrBKNjSZPxXXX00pXa_.jpg",
+                    "remark": "8.9",
+                    "showDetailUrl": "https://h5.m.taopiaopiao.com/app/movie/pages/index/show-detail.html?showid=230804&hasbuybtn=false",
+                    "showId": "230804",
+                    "showName": "起跑线",
+                    "type": "剧情,喜剧"
+                },
+                {
+                    "duration": "95",
+                    "fantastic": "0",
+                    "leadingRole": "英泽,叶不勒,叶门",
+                    "openTime": "2018-04-20",
+                    "poster": "i1/TB1UMswkamWBuNjy1XaXXXCbXXa_.jpg",
+                    "remark": "8.3",
+                    "showDetailUrl": "https://h5.m.taopiaopiao.com/app/movie/pages/index/show-detail.html?showid=230072&hasbuybtn=false",
+                    "showId": "230072",
+                    "showName": "米花之味",
+                    "type": "剧情"
+                }
+            ]
+        }
+    },
+    "ret": [
+        "SUCCESS::调用成功"
+    ],
+    "v": "7.0"
+}

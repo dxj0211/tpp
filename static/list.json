@@ -1,0 +1,468 @@
+{
+  "data":[{
+      "name": "狂暴巨兽",
+      "id": 1,
+      "pattern": ["3D", "IMAX"],
+      "score": "8.9",
+      "director": "布拉德·佩顿",
+      "tostar": ["道恩·强森", "娜奥米·哈里斯"],
+      "img": {
+        "small": "https://gw.alicdn.com/i4/TB18cozaDqWBKNjSZFAXXanSpXa_.jpg_160x160Q30s100.jpg_.webp",
+        "large": "https://gw.alicdn.com/i4/TB18cozaDqWBKNjSZFAXXanSpXa_.jpg_400x400Q30.jpg_.webp",
+        "first": "https://gw.alicdn.com/i2/TB1dcuTlNGYBuNjy0FnXXX5lpXa_.jpg_320x320Q30.jpg_.webp",
+        "second": "https://gw.alicdn.com/i2/TB1WW6KmDnI8KJjy0FfXXcdoVXa_.jpg_320x320Q30.jpg_.webp",
+        "third": "https://gw.alicdn.com/i2/TB1d0BMJpXXXXcYXVXXXXXXXXXX_.jpg_320x320Q30.jpg_.webp",
+        "four": "https://gw.alicdn.com/i4/TB1EAOYehPI8KJjSspfXXcCFXXa_.jpg_320x320Q30.jpg_.webp"
+      },
+      "buy": "购票",
+      "data": {
+        "english": "Rampage",
+        "class": "动作 / 冒险 / 科幻",
+        "country": "美国",
+        "time": "108分钟",
+        "datatime": "2018-04-13在中国大陆上映",
+        "number": "608,967",
+        "recommend": "23%",
+          "people": "161125",
+        "abstract": "巨石强森饰演的灵长类动物学家一直与人类保持距离, 却跟极为聪明的银背大猩猩乔治有着深厚的感情。但是一次基因实验出错, 让这只温驯的大猩猩变成狂怒难驯的庞然巨兽。更可怕的是, 其他动物也发生了同样基因异变。他必须阻止这场全球性的灾难, 更重要是要拯救他的好友乔治。",
+        "dataPerformers": {
+          "first": "布拉顿·佩顿",
+          "second": "道恩·强森",
+          "third": "娜奥米·哈里斯",
+          "four": "杰弗里·迪恩"
+        },
+          "review": ["热门", "最新", "好评57950", "差评960", "点映18", "购票63806", "同城2598", "瞳孔地震 惊心动魄16356", "巨石强森酷毙了8222", "大爱猩猩我乔治9988"],
+          "people_review": [{
+            "name": "饭饭凡大米",
+            "score": "9.0",
+            "cont": "强森最具实力的镜头我认为是跑回直升机里开跑转移鳄鱼注意力从而救自己伙伴的时候，大块头也有柔情的一面。",
+            "time": "04-14 15:34",
+            "img": "https://gw.alicdn.com/i3/6000000004314/TB29mNocvJNTKJjSspoXXc6mpXa_!!6000000004314-2-tfmovie.png_80x80Q30.jpg_.webp"
+          },{
+            "name": "手可摘星辰",
+            "score": "8.0",
+            "cont": "《狂暴巨兽》巨石强森饰演的灵长类动物学家一直与人类保持距离, 却跟极为聪明的银背大猩猩乔治有着深厚的感情。但是一次宇宙空间基因试验出错, 飞船残骸让这只温驯的大猩猩变成狂怒难驯的庞然巨兽。更可怕的是, 另外一只狼和鳄鱼发生了同样基因异变。强森必须阻止这场全球性的灾难, 更重要是要拯救他的好友乔治。从第一个镜头就可以猜完全部剧情的典型好莱坞怪物灾难片，但是非常符合我这个怪物迷得需求，全程乱打，特效满点！三个巨兽各有各色，除了感觉狼和猩猩稍微小了点，但是整体还是凶狠残暴，霸气十足，当狼飞起来的时候我情不自禁哦了一声！全片高潮迭起，最后半小时的芝加哥大战爽翻！难能可贵的是虽然不见血，但是残忍镜头挺多还一刀未剪！3D效果非常好，银背大猩猩还承包了所有笑点，连成人笑话都会，推荐！7.5分！",
+            "time": "04-16 09:31",
+            "img": "https://gw.alicdn.com/i1/2280450849/TB2FGLZiB0lpuFjSszdXXcdxFXa_!!2280450849-0-tfmovie.jpg_80x80Q30.jpg_.webp"
+          },{
+            "name": "好**好",
+            "score": "10.0",
+            "cont": "这应该是荧幕史上最不正经的猩猩了",
+            "time": "04-14 15:32",
+            "img": "http://tvax3.sinaimg.cn/crop.0.0.1125.1125.180/9bd13065ly8fnp9evhdm2j20v90v9q5p.jpg"
+          }],
+        "box_office": {
+          "num": "1",
+          "week": "34985",
+          "sum": "56503"
+        }
+      }
+    },{
+      "name": "脱单告急",
+      "id": 2,
+      "pattern": [],
+      "score": "8.5",
+      "director": "柯孟融",
+      "tostar": ["董子健", "钟楚曦", "春夏"],
+      "img": {
+        "small": "https://gw.alicdn.com/i1/TB1y0JeheySBuNjy1zdXXXPxFXa_.jpg_160x160Q30s100.jpg_.webp",
+        "large": "https://gw.alicdn.com/i1/TB1y0JeheySBuNjy1zdXXXPxFXa_.jpg_400x400Q30.jpg_.webp",
+        "first": "https://gw.alicdn.com/i2/TB1_6ZGh2BNTKJjSszcXXbO2VXa_.jpg_320x320Q30.jpg_.webp",
+        "second": "https://gw.alicdn.com/i4/TB1B4tAXwoQMeJjy1XaXXcSsFXa_.jpg_320x320Q30.jpg_.webp",
+        "third": "https://gw.alicdn.com/i4/TB1FgPSXPqhSKJjSspnXXc79XXa_.jpg_320x320Q30.jpg_.webp",
+        "four": "https://gw.alicdn.com/i4/TB1v.vCmpmWBuNjSspdXXbugXXa_.jpg_320x320Q30.jpg_.webp"
+      },
+      "buy": "购票",
+      "data": {
+        "english": "Dude's Manual",
+        "class": "爱情 / 喜剧",
+        "country": "中国大陆",
+        "time": "106分钟",
+        "datatime": "2018-04-20在中国大陆上映",
+        "number": "12,175",
+        "recommend": "75%",
+        "people": "41443",
+        "abstract": "一次偶然，让单身四年的气筒哥何晓阳(董子健 饰)和校园大姐大关欣(钟楚曦 饰)成为了绯闻情侣。为了摆脱何晓阳，关欣决定帮助他追求女神李舒舒(春夏 饰)。在关欣的指导下，何晓阳拥有了追求女神的完美公式，并距离脱单之日越来越近。但是面对真爱，何晓阳却分不清追爱公式到底有没有用⋯⋯",
+        "dataPerformers": {
+          "first": "柯孟融",
+          "second": "董子健",
+          "third": "钟楚曦",
+          "four": "春夏"
+        },
+          "review": ["热门", "最新", "好评2418", "差评107", "点映11", "购票2762", "同城135", "青春气息 262", "钟楚曦野蛮可爱305", "文艺女神春夏244"],
+          "people_review": [{
+              "name": "m**7",
+              "score": "10.0",
+              "cont": "这个电影真的是好看的，蛮真实的校园恋爱，不过不得不说的是钟楚曦在戏里是真的好看，又高又瘦的高级脸真的是美呆了，喜欢钟楚曦的一定要去看这部电影。",
+              "time": "04-20 17:30",
+              "img": "https://gw.alicdn.com/i4/6000000007245/TB2MwYlc7WM.eBjSZFhXXbdWpXa_!!0-mytaobao.jpg_80x80Q30.jpg_.webp"
+            },{
+              "name": "李**子",
+              "score": "10.0",
+              "cont": "《脱单告急》应该是国产喜剧里可圈可点的电影了，三位主演为这部戏加了不少分，而且钟楚曦真的是豁出去了，泼辣校花的形象演绎的十分到位~！",
+              "time": "04-20 17:36",
+              "img": "https://gw.alicdn.com/i4/2290563846/TB2mMTlaigSXeFjy0FcXXahAXXa_!!0-mytaobao.jpg_80x80Q30.jpg_.webp"
+            },{
+              "name": "t**0",
+              "score": "8.0",
+              "cont": "并不是那种满分的绝世好片，但情节还不错，梗也都好玩，演员演技也很棒，推荐去电影院感受一下",
+              "time": "04-16 15:32",
+              "img": "https://gw.alicdn.com/i2/TB11IoeMVXXXXasXFXXXXXXXXXX_.jpg_80x80Q30.jpg_.webp"
+            }],
+        "box_office": {
+          "num": "5",
+          "week": "暂无",
+          "sum": "1253"
+        }
+      }
+    },{
+      "name": "21克拉",
+      "id": 3,
+      "pattern": [],
+      "score": "8.6",
+      "director": "何念",
+      "tostar": ["郭京飞", "迪丽热巴", "大鹏"],
+      "img": {
+        "small": "https://gw.alicdn.com/i3/TB1wqFik7KWBuNjy1zjXXcOypXa_.jpg_160x160Q30s100.jpg_.webp",
+        "large": "https://gw.alicdn.com/i3/TB1wqFik7KWBuNjy1zjXXcOypXa_.jpg_400x400Q30.jpg_.webp",
+        "first": "https://gw.alicdn.com/i1/TB1BKXWJpXXXXahXFXXXXXXXXXX_.jpg_320x320Q30.jpg_.webp",
+        "second": "https://gw.alicdn.com/i4/TB1Ay8flCfD8KJjSszhXXbIJFXa_.jpg_320x320Q30.jpg_.webp",
+        "third": "https://gw.alicdn.com/i4/TB1hF0vXwsSMeJjSsphXXXuJFXa_.jpg_320x320Q30.jpg_.webp",
+        "four": "https://gw.alicdn.com/i2/TB1Ey3XevjM8KJjSZFyXXXdzVXa_.jpg_320x320Q30.jpg_.webp"
+      },
+      "buy": "购票",
+      "data": {
+        "english": "21 Karat",
+        "class": "爱情 / 喜剧",
+        "country": "中国大陆",
+        "time": "96分钟",
+        "datatime": "2018-04-20在中国大陆上映",
+        "number": "18,761",
+        "recommend": "100%",
+        "people": "175171",
+        "abstract": "刘佳音（迪丽热巴 饰）因与富豪男友分手而破产，为了还债，变卖了自己所有的奢侈品，王继伟（郭京飞 饰）天生爱省，为了省钱无所不用其极。两人因为一场剧场意外相遇，在一系列机缘巧合合租一个屋檐之下，过起了荒诞爆笑的流浪生活，“王抠抠”和“刘买买”究竟如何在两种价值观之间化解金钱与爱情的终极问题呢？",
+        "dataPerformers": {
+          "first": "何念",
+          "second": "郭京飞",
+          "third": "迪丽热巴",
+          "four": "大鹏"
+        },
+          "review": ["热门", "最新", "好评3978", "差评151", "购票4491", "同城161", "热巴又美又萌1548", "同名话剧改编94", "郭京飞演技担当676"],
+          "people_review": [{
+              "name": "星**2",
+              "score": "10.0",
+              "cont": "超看过预告知道有热巴下定决心去看的，比我预想的还要满意，刚开始挺搞笑最后显示很现实的生活，刘买买和王抠抠的花式互怼感觉超甜，结局很让我满意，郭老师的演技也非常好，非常值得一看",
+              "time": "04-20 08:54",
+              "img": "https://gw.alicdn.com/i4/6000000007245/TB2MwYlc7WM.eBjSZFhXXbdWpXa_!!0-mytaobao.jpg_80x80Q30.jpg_.webp"
+            },{
+              "name": "z**s",
+              "score": "10.0",
+              "cont": "剧情挺不错的，看的很舒心，喜欢佳音嫁给爱情的样子💑～～“我可以不那么抠，我可以努力给你想要的生活，我不应该总是改变你，我可以改变我自己。”其实所有的一切，不过因为“我爱你” ​​​",
+              "time": "04-20 17:11",
+              "img": "https://gw.alicdn.com/i1/186750154573687613/TB2ivx5iVXXXXbaXXXXXXXXXXXX_!!0-mytaobao.jpg_80x80Q30.jpg_.webp"
+            },{
+              "name": "t**0",
+              "score": "9.0",
+              "cont": "五年前曾看过21克拉的话剧，留下了深刻的印象，每每忆及，还是会非常感动，想起那个人民大舞台倒数第三排黑暗里偷偷摘下眼镜抹眼泪的瞬间；这一次，有幸买到首映会的票前去观影，不得不说，话剧珠玉在前，电影演员和导演应该是有些压力的，不过好在他们就是话剧原版的导演和主演，郭京飞对于自己演过上百场的角色驾轻就熟，感情拿捏的非常到位，王继伟挽留刘佳音失败落泪的瞬间，我感觉非常难过，强忍着才没有哭出来（脱妆），迪丽热巴的刘佳音俏皮可爱，颜值是真的高了，电影中其他角色也很亮眼，张钟仪饰演的“假女友”一角色，戏份不多却很出彩，演员本人也是非常亲切可爱，映后见面会结束后，还愉快地找她要了签名～",
+              "time": "04-20 00:41",
+              "img": "https://gw.alicdn.com/i2/TB11IoeMVXXXXasXFXXXXXXXXXX_.jpg_80x80Q30.jpg_.webp"
+            }],
+        "box_office": {
+          "num": "3",
+          "week": "暂无",
+          "sum": "2709"
+        }
+      }
+    },{
+      "name": "头号玩家",
+      "id": 4,
+      "pattern": ["3D", "IMAX"],
+      "score": "9.0",
+      "director": "史蒂文·斯皮尔伯格",
+      "tostar": ["泰伊·谢里丹"],
+      "img": {
+        "small": "https://gw.alicdn.com/i4/TB11pGCfv1TBuNjy0FjXXajyXXa_.jpg_160x160Q30s100.jpg_.webp",
+        "large": "https://gw.alicdn.com/i4/TB11pGCfv1TBuNjy0FjXXajyXXa_.jpg_400x400Q30.jpg_.webp",
+        "first": "https://gw.alicdn.com/i4/TB1VPI4XlyWBuNkSmFPXXXguVXa_.jpg_320x320Q30.jpg_.webp",
+        "second": "https://gw.alicdn.com/i4/TB1BPfsSpXXXXazXFXXXXXXXXXX_.jpg_320x320Q30.jpg_.webp",
+        "third": "https://gw.alicdn.com/i2/TB1OxfgNFXXXXcCXXXXXXXXXXXX_.jpg_320x320Q30.jpg_.webp",
+        "four": "https://gw.alicdn.com/i2/TB1tssqXmYTBKNjSZKbXXXJ8pXa_.jpg_320x320Q30.jpg_.webp"
+      },
+      "buy": "购票",
+      "data": {
+        "english": "Ready Player One",
+        "class": "动作 / 科幻 / 冒险",
+        "country": "美国",
+        "time": "140分钟",
+        "datatime": "2018-03-30在中国大陆上映",
+        "number": "1,691,504",
+        "recommend": "92%",
+        "people": "177631",
+        "abstract": "在2045年，现实世界衰退破败，人们沉迷于VR(虚拟现实)游戏“绿洲(OASIS)”的虚幻世界里寻求慰藉。马克·里朗斯饰演的“绿洲”的创始人临终前宣布，将亿万身家全部留给寻获他隐藏的彩蛋的游戏玩家，史上最大规模的寻宝冒险就此展开，由泰伊·谢里丹饰演的男主角韦德·沃兹(Wade Watts/Parzival)和数十亿竞争者踏上奇妙而又危机重重的旅途。",
+        "dataPerformers": {
+          "first": "史蒂文·斯皮尔伯格",
+          "second": "泰伊·谢里丹",
+          "third": "奥利维亚·库克",
+          "four": "本·门德尔森"
+        },
+          "review": ["热门", "最新", "好评176790", "差评4666", "购票191883", "同城10841", "跪着看完15972", "最强彩蛋电影27213", "游戏宅类目！44527", "蟹蟹你玩我的游戏1233", "特效炸裂18903"],
+          "people_review": [{
+              "name": "兰若伽蓝",
+              "score": "8.0",
+              "cont": "没想到70多岁的老导演能拍得如此青春荷尔蒙爆棚。这是一部关于彩蛋的电影，里面却隐藏着各种激动人心的彩蛋。拍得出《辛德勒名单》也拍得出《大白鲨》，拍得出《林肯》也拍得出《头号玩家》，难道这就是从心所欲不逾矩？",
+              "time": "04-03 09:07",
+              "img": "https://gw.alicdn.com/i3/6000000002271/TB2blLrXMfN8KJjSZFIXXc0UFXa_!!6000000002271-2-tfmovie.png_80x80Q30.jpg_.webp"
+            },{
+              "name": "黄**g",
+              "score": "10.0",
+              "cont": "斯皮尔伯格的新作，我以为今年会出的是阿凡达2。这是一部关于游戏的电影。但它又不是将某个大热的电子游戏照搬荧幕的改编之作。个人最中意的是它的创意，虚拟与现实的完美结合。一个不玩游戏，对游戏的体验还停留在“俄罗斯方块”“贪吃蛇”上的游戏白目能全程聚精会神地看完且不打瞌睡是不是挺不容易的？很奇怪，我并没有觉得很无聊，反而是在观影过程中几度热泪盈眶。我们的星球很热闹，时刻有人在狂欢，如同我走出影院时看到的景象——日光西斜，天空澄明，摩天大楼们闪闪发亮，解放碑的游人仿佛从没离去过，且笑且闹，走马观花。那一刻我突然心生疑惑：生活是虚拟的世界，还是虚拟才是真实的生活？",
+              "time": "04-12 08:47",
+              "img": "https://gw.alicdn.com/tfscom/TB2toR.crRkpuFjSspmXXc.9XXa_!!0-tmallfun.jpg_80x80Q30.jpg_.webp"
+            },{
+              "name": "y**0",
+              "score": "10.0",
+              "cont": "本来最不喜欢网络游戏的我，却看一部游戏题材的电影～一看到这个场景油然而生的厌恶后悔～但是不得不说国外的制作的确吸引人眼球，无论是内容还是效果都是很不错的！实际上电影本身想告诉人们，离开虚幻的世界，回归到现实中来吧，现实的才是最美好的！希望看过这部电影的游戏爱好者能明白这一点，回归现实，过真正的生活～",
+              "time": "04-12 13:41",
+              "img": "https://gw.alicdn.com/i2/TB11IoeMVXXXXasXFXXXXXXXXXX_.jpg_80x80Q30.jpg_.webp"
+            }],
+        "box_office": {
+          "num": "2",
+          "week": "39,039",
+          "sum": "127,361"
+        }
+      }
+    },{
+      "name": "湮灭",
+      "id": 5,
+      "pattern": ["2D", "中国巨幕"],
+      "score": "7.5",
+      "director": "亚历克斯·嘉兰",
+      "tostar": ["娜塔莉·波特曼"],
+      "img": {
+        "small": "https://gw.alicdn.com/i2/TB1SluRkf5TBuNjSspcXXbnGFXa_.jpg_160x160Q30s100.jpg_.webp",
+        "large": "https://gw.alicdn.com/i2/TB1SluRkf5TBuNjSspcXXbnGFXa_.jpg_400x400Q30.jpg_.webp",
+        "first": "https://gw.alicdn.com/i2/TB1SluRkf5TBuNjSspcXXbnGFXa_.jpg_160x160Q30s100.jpg_.webp",
+        "second": "https://gw.alicdn.com/i3/TB1qpJ5JpXXXXcBXpXXXXXXXXXX_.jpg_320x320Q30.jpg_.webp",
+        "third": "https://gw.alicdn.com/i3/TB1dtJMJpXXXXccXVXXXXXXXXXX_.jpg_320x320Q30.jpg_.webp",
+        "four": "https://gw.alicdn.com/i2/TB1w4J_JpXXXXcVXXXXXXXXXXXX_.jpg_320x320Q30.jpg_.webp"
+      },
+      "buy": "购票",
+      "data": {
+        "english": "Annihilation",
+        "class": "动作 / 科幻 / 冒险",
+        "country": "美国,英国",
+        "time": "114分钟",
+        "datatime": "2018-04-13在中国大陆上映",
+        "number": "125,578",
+        "recommend": "73%",
+        "people": "53062",
+        "abstract": "某生物学家(波特曼)为调查丈夫(伊萨克饰)的失踪，参加了神秘组织Southern Reach组织的科学考察，4名女性组队，去研究美国领土内一块被检疫隔离的生态灾害区域“X地区”。她发现那里是原生态的荒野，隐藏着神秘的黑暗力量。这已经是对该地区的第12次考察，前11次全都失败，比如第二次考察终结于去的考察队员集体自杀，第三次考察队拔枪互相残杀，第11次队员全体失去神志，回来后不久都死于癌症……",
+        "dataPerformers": {
+          "first": "亚历克斯·嘉兰",
+          "second": "娜塔莉·波特曼",
+          "third": "詹妮弗·杰森",
+          "four": "吉娜·罗德里"
+        },
+          "review": ["热门", "最新", "好评12115", "差评2799", "购票18806", "同城1166", "近期最期待科幻品2283", "加兰大神又一力作34", "恐怖美学教科书1483", "细思极恐脑洞吓人882", "竟然引进了！19"],
+          "people_review": [{
+              "name": "大理里了",
+              "score": "10.0",
+              "cont": "看过三遍的表示，这片子有很多细节伏笔，一定要去大银幕看才值得回票价，某些地方真是异常让人兴奋。很多人没有提到女主角的感情线，但是贯穿全片，这才是一条最非常值得我们反思的故事线。",
+              "time": "04-11 19:07",
+              "img": "https://gw.alicdn.com/i2/TB27wyrdcIrBKNjSZK9XXagoVXa_!!2-tfmovie.png_80x80Q30.jpg_.webp"
+            },{
+              "name": "梦**月",
+              "score": "6.0",
+              "cont": "《湮灭》是一部有点难以看懂的非类型片，沉闷的剧情，暗黑的基调，诡异的画风，但却透漏着深刻的思想。电影里所展现的闪晃范围里面的生物，表现出奇特的性状，鹿角上开花，人的手臂上冒出嫩芽，同一株植物上开出各种不同种类的花，而有的树是全身透明的等等不一而足。影片里说这是一种基因折射现象，实际上这是一种现实世界中还不存在的理论。其实，只要用心体会并不难懂，我觉得此片就是对生命本源的一种独特探索，对人类生存空间的迷思。有点类似于多年前的烧脑电影《普罗米修斯》，只是它们采取了决然不同的视角逻辑，故事架构和叙事方式。",
+              "time": "04-19 13:31",
+              "img": "https://gw.alicdn.com/tfscom/TB2toR.crRkpuFjSspmXXc.9XXa_!!0-tmallfun.jpg_80x80Q30.jpg_.webp"
+            },{
+              "name": "终**0",
+              "score": "6.0",
+              "cont": "看剧情介绍似乎很带劲，充满了期待去看的，结果悬疑算不上，惊悚也很一般，唯一的悬念或许就是最后一幕了。画面的确绚丽唯美，但是剧情普通，节奏太慢，情节紧张的镜头不多，鳄鱼和熊这两处还略微精彩些，之后又陷入沉闷中了！最后结局也没怎么看明白，周围一起看的也都说莫名其妙，看样子不是我一个不明白啊！",
+              "time": "04-12 13:41",
+              "img": "https://gw.alicdn.com/i4/175220155013108601/TB2MnOPiVXXXXavXXXXXXXXXXXX_!!0-mytaobao.jpg_80x80Q30.jpg_.webp"
+            }],
+        "box_office": {
+          "num": "7",
+          "week": "3,837",
+          "sum": "5,575"
+        }
+      }
+    },{
+      "name": "幕后玩家",
+      "id": 6,
+      "pattern": ["2D", "IMAX"],
+      "score": "",
+      "director": "任鹏远",
+      "tostar": ["徐峥", "王丽坤", "王砚辉"],
+      "img": {
+        "small": "https://gw.alicdn.com/i1/TB17PV6dSYTBKNjSZKbXXXJ8pXa_.jpg_160x160Q30s100.jpg_.webp",
+        "large": "https://gw.alicdn.com/i1/TB17PV6dSYTBKNjSZKbXXXJ8pXa_.jpg_400x400Q30.jpg_.webp",
+        "first": "https://gw.alicdn.com/i2/TB13mPTcHsrBKNjSZFpXXcXhFXa_.jpg_320x320Q30.jpg_.webp",
+        "second": "https://gw.alicdn.com/i3/TB1u.h2caagSKJjy0FbXXa.mVXa_.jpg_320x320Q30.jpg_.webp",
+        "third": "https://gw.alicdn.com/i1/TB1P0V7JpXXXXapXpXXXXXXXXXX_.jpg_320x320Q30.jpg_.webp",
+        "four": "https://gw.alicdn.com/i2/TB1d6xnMXXXXXb.XVXXXXXXXXXX_.jpg_320x320Q30.jpg_.webp"
+      },
+      "buy": "预售",
+      "data": {
+        "english": "A or B",
+        "class": "剧情 / 悬疑 / 犯罪",
+        "country": "中国大陆",
+        "time": "114分钟",
+        "datatime": "2018-04-28在中国大陆上映",
+          "number": "尚未上映",
+          "recommend": "",
+          "people": "75044",
+        "abstract": "坐拥数亿财产的钟小年(徐峥 饰)意外遭人绑架，不得不在一位神秘人的操控下完 成一道道令人两难的选择题。在选择的过程中，钟小年落入陷阱，不仅巨额财产被盗取、 濒临身败名裂的边缘，还将妻子魏思蒙(王丽坤饰)牵扯进一个个险境。为了洗脱罪名， 救回爱人，钟小年在重重危机中与神秘人展开了一场关乎生死和救赎的金钱游戏…",
+        "dataPerformers": {
+          "first": "任鹏远",
+          "second": "徐峥",
+          "third": "王丽坤",
+          "four": "王砚辉"
+        },
+          "review": ["热门", "最新", "期待徐峥新作32", "王丽坤颜值担当9", "国产佳作"],
+          "people_review": [{
+              "name": "电影即人生戏",
+              "score": "8.0",
+              "cont": "没有了徐峥的男人王宝强助阵，徐峥能够走多远，拭目以待。",
+              "time": "02-21 16:07",
+              "img": "https://gw.alicdn.com/i2/165890154753689948/TB2Tft9iVXXXXX5XpXXXXXXXXXX_!!0-mytaobao.jpg_80x80Q30.jpg_.webp"
+            },{
+              "name": "s**h",
+              "score": "6.0",
+              "cont": "徐峥，影片质量保证！王丽坤颜值担当！值得期待",
+              "time": "02-22 21:31",
+              "img": "https://gw.alicdn.com/tfscom/TB2toR.crRkpuFjSspmXXc.9XXa_!!0-tmallfun.jpg_80x80Q30.jpg_.webp"
+            },{
+              "name": "s**炎",
+              "score": "6.0",
+              "cont": "5.4的复仇者联盟三呢",
+              "time": "2017-11-20 07:55",
+              "img": "https://gw.alicdn.com/i4/175220155013108601/TB2MnOPiVXXXXavXXXXXXXXXXXX_!!0-mytaobao.jpg_80x80Q30.jpg_.webp"
+            }],
+            "box_office": {
+              "num": "暂无",
+              "week": "暂无",
+              "sum": "暂无"
+            }
+         }
+      },{
+      "name": "后来的我们",
+      "id": 7,
+      "pattern": [],
+      "score": "",
+      "director": "刘若英",
+      "tostar": ["井柏然", "周冬雨", "田壮壮"],
+      "img": {
+        "small": "https://gw.alicdn.com/i3/TB1L48WnuSSBuNjy0FlXXbBpVXa_.jpg_160x160Q30s100.jpg_.webp",
+        "large": "https://gw.alicdn.com/i3/TB1L48WnuSSBuNjy0FlXXbBpVXa_.jpg_400x400Q30.jpg_.webp",
+        "first": "https://gw.alicdn.com/i4/TB1XC88XyjQBKNjSZFnXXa_DpXa_.jpg_320x320Q30.jpg_.webp",
+        "second": "https://gw.alicdn.com/i4/TB1zXYDcXooBKNjSZFPXXXa2XXa_.jpg_320x320Q30.jpg_.webp",
+        "third": "https://gw.alicdn.com/i2/TB1SLaeQVXXXXXUapXXXXXXXXXX_.jpg_320x320Q30.jpg_.webp",
+        "four": "https://gw.alicdn.com/i4/TB1vf9tir1YBuNjSszeXXablFXa_.jpg_320x320Q30.jpg_.webp"
+      },
+      "buy": "预售",
+      "data": {
+        "english": "Us and Them",
+        "class": "爱情 / 剧情",
+        "country": "中国大陆",
+        "time": "120分钟",
+        "datatime": "2018-04-28在中国大陆上映",
+        "number": "尚未上映",
+        "recommend": "",
+        "people": "629094",
+        "abstract": "这是一个爱情故事，关于一对异乡漂泊的年轻人。十年前，见清和小晓偶然地相识在归乡过年的火车上。两人怀揣着共同的梦想，一起在北京打拼，并开始了一段相聚相离的情感之路。十年后，见清和小晓在飞机上再次偶然重逢……命运似乎是一个轮回。在一次次的偶然下，平行线交叉，再平行，故事始终有“然后”。可后来的他们，学会如何去爱了吗？",
+        "dataPerformers": {
+          "first": "刘若英",
+          "second": "井柏然",
+          "third": "周冬雨",
+          "four": "田壮壮"
+        },
+          "review": ["热门", "最新", "后来的你 好不好 173", "支持奶茶 97", "滴！五迷卡 18"],
+          "people_review": [{
+              "name": "3**砂",
+              "score": "",
+              "cont": "在高中的时候遇见自己的初恋，两年俩个月零十五天，后来他为了我在我们这买了房子，后来我们还是分开了，居然是因为他哥对象的挑拨，现在自己想想，只怪当时自己太年轻，太不成熟。十多年过去了，我已经为人妻，同在一个城市里却彼此再也没有相遇过，但愿我们都会维彼此默默的祝福。",
+              "time": "04-16 05:27",
+              "img": "https://gw.alicdn.com/i1/155700158862870006/TB2hc8XjpXXXXbuXpXXXXXXXXXX_!!0-mytaobao.jpg_80x80Q30.jpg_.webp"
+            },{
+              "name": "t**0",
+              "score": "10.0",
+              "cont": "唉，怎么能这么巧，这天正好是我最爱的人的生日啊，我好希望能和她一起去看，但是已经没了可能了，因为她已经去了天堂，真的，真的没有人能体会到我内心的痛苦！",
+              "time": "04-15 14:55",
+              "img": "https://gw.alicdn.com/tfscom/TB2toR.crRkpuFjSspmXXc.9XXa_!!0-tmallfun.jpg_80x80Q30.jpg_.webp"
+            },{
+              "name": "愿**世",
+              "score": "10.0",
+              "cont": "12年相识相知，13年相恋相爱，14年吵吵闹闹，15年走到尽头，仔细回忆都是你对我的好，怪我太年轻没能珍惜，虽然已不再联系，但内心希望能找一个懂得珍惜你的人来爱你，祝你幸福！我会找一个人好好爱她，但爱你是我抹不去的记忆！",
+              "time": "04-13 21:27",
+              "img": "https://gw.alicdn.com/i2/1621421611/TB2LbJ6nFXXXXbxXXXXXXXXXXXX_!!0-mytaobao.jpg_80x80Q30.jpg_.webp"
+            }],
+        "box_office": {
+          "num": "",
+          "week": "暂无",
+          "sum": "暂无"
+        }
+      }
+    },{
+      "name": "起跑线",
+      "id": 8,
+      "pattern": ["2D", "中国巨幕"],
+      "score": "8.9",
+      "director": "萨基特·乔杜里",
+      "tostar": ["伊尔凡·可汗", "萨巴·卡玛尔"],
+      "img": {
+        "small": "https://gw.alicdn.com/i1/TB1nfNTbIUrBKNjSZPxXXX00pXa_.jpg_160x160Q30s100.jpg_.webp",
+        "large": "https://gw.alicdn.com/i1/TB1nfNTbIUrBKNjSZPxXXX00pXa_.jpg_400x400Q30.jpg_.webp",
+        "first": "https://gw.alicdn.com/i3/TB1HP.RbBDH8KJjSspnXXbNAVXa_.jpg_320x320Q30.jpg_.webp",
+        "second": "https://gw.alicdn.com/tfscom/TB1tMFRof6H8KJjy0FjXXaXepXa.jpg_320x320Q30.jpg_.webp",
+        "third": "https://gw.alicdn.com/i1/TB1jsDYaZjI8KJjSsppXXXbyVXa_.jpg_320x320Q30.jpg_.webp",
+        "four": "https://gw.alicdn.com/i3/TB1hV4LJpXXXXb.XVXXXXXXXXXX_.jpg_320x320Q30.jpg_.webp"
+      },
+      "buy": "购票",
+      "data": {
+        "english": "हिंदी",
+        "class": "剧情 / 喜剧",
+        "country": "印度",
+        "time": "131分钟",
+        "datatime": "2018-04-04在中国大陆上映",
+        "number": "326,387",
+        "recommend": "96%",
+        "people": "59085",
+        "abstract": "一对印度的中产阶级夫妇服装店老板拉吉(伊尔凡·可汗 饰)与太太米塔(萨巴·卡玛尔 饰)为了让女儿皮娅(蒂希塔·塞加尔 饰)接受更好的教育想尽了各种办法。而当他们费劲心思终于要将女儿送进名校时，事情却又发生了意想不到的变化......",
+        "dataPerformers": {
+          "first": "萨基特·乔杜里",
+          "second": "伊尔凡·可汗",
+          "third": "萨巴·卡玛尔",
+          "four": "内哈·迪胡皮阿"
+        },
+          "review": ["热门", "最新", "好评33492", "差评471", "点映807", "购票35916", "同城1737", "题材大胆11986", "你以为只是印度片？9847", "中产阶级的焦虑3137", "喜剧糖衣现实内核436"],
+          "people_review": [{
+              "name": "星**2",
+              "score": "10.0",
+              "cont": "起初没想过看这部电影，总感觉【起跑线】这个片名像是儿童主题电影，没想到是个喜剧正剧，用诙谐幽默的表演诠释了社会普遍存在的贫富差距和阶级歧视，人性善恶，教育差异化交易化恶性化，羡慕女主有这么好老公，羡慕小女主有这么好的老爸，人性本善在穷困的人群中更为凸显，有钱人的世界太多攀比和虚伪，抛弃种族阶级歧视，不欺骗不抛弃，遵从自己内心的快乐，融入和谐的团体，才是让孩子在正确的道路上成长的关键，全程无尿点，孩子的歌舞表演很赞，值得全家去看！强烈推荐！",
+              "time": "04-10 08:54",
+              "img": "https://gw.alicdn.com/i4/6000000007245/TB2MwYlc7WM.eBjSZFhXXbdWpXa_!!0-mytaobao.jpg_80x80Q30.jpg_.webp"
+            },{
+              "name": "z**s",
+              "score": "7.0",
+              "cont": "也就一般吧，叙事性的电影并没有给出让人眼前一亮的解决方案，富人任性穷人依旧贫穷，这部电影如果有能打动人的地方，那只能是那个作为配角的穷人的苦中作乐",
+              "time": "04-16 17:11",
+              "img": "https://gw.alicdn.com/i1/186750154573687613/TB2ivx5iVXXXXbaXXXXXXXXXXXX_!!0-mytaobao.jpg_80x80Q30.jpg_.webp"
+            },{
+              "name": "t**0",
+              "score": "10.0",
+              "cont": "比起近期的各种视觉大片，《起跑线》无疑更有深度。喜欢电影无处不在的背景音乐，安排得分外巧妙，与紧凑的剧情相得益彰，对节奏的把控可谓如火纯青。Ek Jindari这首歌更是整部电影的点睛之笔，曲调欢快明朗而又充满希望。电影我不敢妄加评论其好坏，毕竟一千个人眼里有一千个汉姆雷特。但是这部片子做到了一部电影最基本的一点，给人启迪，发人深思",
+              "time": "04-18 00:41",
+              "img": "https://gw.alicdn.com/i2/TB11IoeMVXXXXasXFXXXXXXXXXX_.jpg_80x80Q30.jpg_.webp"
+            }],
+        "box_office": {
+          "num": "6",
+          "week": "13468",
+          "sum": "19884"
+        }
+      }
+    }
+  ]
+}
